@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+don't+shower;Code+%26+Wagyu;Addicted+to+Coding+(Sometimes);beep+boop&font=Fira+Code&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+don't+shower;Code+%26+Wagyu;Addicted+to+Coding+(Sometimes);Crashing+out+(Other+times);beep+boop;Boop+Beep;I+don't+talk+to+girls&font=Fira+Code&center=true&width=440&height=45">
 </a>
 </p>
  
