@@ -1,27 +1,11 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
 
-<h3 align="center">
-  Hi, I'm Zhuzhen!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:14304A,100:3A6EA5&text=Zhuzhen&fontColor=ffffff&fontSize=44&fontAlignY=36&reversal=true" />
 
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+don't+shower;Code+%26+Wagyu;Addicted+to+Coding+(Sometimes);Crashing+out+(Other+times);beep+boop;Boop+Beep;I+don't+talk+to+girls&font=Fira+Code&center=true&width=440&height=45">
-</a>
-</p>
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tuxedolphin&theme=github_dark)
-  
- </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=3A6EA5&center=true&vCenter=true&width=440&lines=beep%20boop;boop%20beep;it%20works%20on%20my%20machine;git%20commit%20-m%20%22fix%20stuff%22;404%3A%20bio%20not%20found" />
 
-<div align="center">
-<a href="mailto:zhuzhen.zhuo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/zhuo-zhuzhen/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/Tuxedolphin"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tuxedolphin&theme=github_dark" />
+
+<sub><a href="https://tuxedolphin.com">tuxedolphin.com</a></sub>
+
 </div>
